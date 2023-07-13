@@ -1,0 +1,23 @@
+{
+  "name": "graphql-first",
+  "version": "1.0.0",
+  "description": "my first graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphQL",
+    "test"
+  ],
+  "author": "Lucas Delaterra",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.7.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
